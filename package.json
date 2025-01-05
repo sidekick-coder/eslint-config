@@ -1,9 +1,12 @@
 {
-  "name": "@sidekick-coder/eslint",
+  "name": "@sidekick-coder/eslint-config",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "types": "index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "eslint",
     "eslint-config"
