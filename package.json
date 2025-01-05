@@ -1,0 +1,26 @@
+{
+  "name": "@sidekick-coder/eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "types": "index.d.ts",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Henrique <henrique@sidekick-coder.com>",
+  "license": "MIT",
+  "description": "ESLint config for Sidekick Coder",
+  "dependencies": {
+    "@eslint/compat": "^1.2.4",
+    "@eslint/js": "^9.17.0",
+    "@typescript-eslint/parser": "^8.19.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-tailwindcss": "^3.17.5",
+    "eslint-plugin-vue": "^9.32.0",
+    "globals": "^15.14.0",
+    "typescript-eslint": "^8.19.0",
+    "vue-eslint-parser": "^9.4.3"
+  }
+}
