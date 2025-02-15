@@ -43,7 +43,7 @@ export const config = tsEslint.config(
             'vue/html-self-closing': 'off',
             'tailwindcss/no-custom-classname': 'off',
             'vue/singleline-html-element-content-newline': 'off',
-            'linebreak-style': ['error', 'unix'],
+            'linebreak-style': 'off',
             'prettier/prettier': [
                 'error',
                 {
